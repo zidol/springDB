@@ -20,7 +20,6 @@ public class UnCheckedAppTest {
 
         public void request() {
             service.logic();
-            NullPointerException
         }
     }
 
